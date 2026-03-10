@@ -1,0 +1,9 @@
+{
+  "name": "entur-schedule",
+  "version": "1.0.0",
+  "description": "Simple bus schedule app using Entur API",
+  "scripts": {
+    "start": "npx serve ."
+  },
+  "type": "module"
+}
